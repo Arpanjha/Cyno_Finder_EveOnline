@@ -1,0 +1,1610 @@
+[
+  {
+    "ship_type_id": 582,
+    "shipname": "Bantam"
+  },
+  {
+    "ship_type_id": 583,
+    "shipname": "Condor"
+  },
+  {
+    "ship_type_id": 584,
+    "shipname": "Griffin"
+  },
+  {
+    "ship_type_id": 585,
+    "shipname": "Slasher"
+  },
+  {
+    "ship_type_id": 586,
+    "shipname": "Probe"
+  },
+  {
+    "ship_type_id": 587,
+    "shipname": "Rifter"
+  },
+  {
+    "ship_type_id": 588,
+    "shipname": "Reaper"
+  },
+  {
+    "ship_type_id": 589,
+    "shipname": "Executioner"
+  },
+  {
+    "ship_type_id": 590,
+    "shipname": "Inquisitor"
+  },
+  {
+    "ship_type_id": 591,
+    "shipname": "Tormentor"
+  },
+  {
+    "ship_type_id": 592,
+    "shipname": "Navitas"
+  },
+  {
+    "ship_type_id": 593,
+    "shipname": "Tristan"
+  },
+  {
+    "ship_type_id": 594,
+    "shipname": "Incursus"
+  },
+  {
+    "ship_type_id": 596,
+    "shipname": "Impairor"
+  },
+  {
+    "ship_type_id": 597,
+    "shipname": "Punisher"
+  },
+  {
+    "ship_type_id": 598,
+    "shipname": "Breacher"
+  },
+  {
+    "ship_type_id": 599,
+    "shipname": "Burst"
+  },
+  {
+    "ship_type_id": 601,
+    "shipname": "Ibis"
+  },
+  {
+    "ship_type_id": 602,
+    "shipname": "Kestrel"
+  },
+  {
+    "ship_type_id": 603,
+    "shipname": "Merlin"
+  },
+  {
+    "ship_type_id": 605,
+    "shipname": "Heron"
+  },
+  {
+    "ship_type_id": 606,
+    "shipname": "Velator"
+  },
+  {
+    "ship_type_id": 607,
+    "shipname": "Imicus"
+  },
+  {
+    "ship_type_id": 608,
+    "shipname": "Atron"
+  },
+  {
+    "ship_type_id": 609,
+    "shipname": "Maulus"
+  },
+  {
+    "ship_type_id": 615,
+    "shipname": "Immolator"
+  },
+  {
+    "ship_type_id": 617,
+    "shipname": "Echo"
+  },
+  {
+    "ship_type_id": 620,
+    "shipname": "Osprey"
+  },
+  {
+    "ship_type_id": 621,
+    "shipname": "Caracal"
+  },
+  {
+    "ship_type_id": 622,
+    "shipname": "Stabber"
+  },
+  {
+    "ship_type_id": 623,
+    "shipname": "Moa"
+  },
+  {
+    "ship_type_id": 624,
+    "shipname": "Maller"
+  },
+  {
+    "ship_type_id": 625,
+    "shipname": "Augoror"
+  },
+  {
+    "ship_type_id": 626,
+    "shipname": "Vexor"
+  },
+  {
+    "ship_type_id": 627,
+    "shipname": "Thorax"
+  },
+  {
+    "ship_type_id": 628,
+    "shipname": "Arbitrator"
+  },
+  {
+    "ship_type_id": 629,
+    "shipname": "Rupture"
+  },
+  {
+    "ship_type_id": 630,
+    "shipname": "Bellicose"
+  },
+  {
+    "ship_type_id": 631,
+    "shipname": "Scythe"
+  },
+  {
+    "ship_type_id": 632,
+    "shipname": "Blackbird"
+  },
+  {
+    "ship_type_id": 633,
+    "shipname": "Celestis"
+  },
+  {
+    "ship_type_id": 634,
+    "shipname": "Exequror"
+  },
+  {
+    "ship_type_id": 635,
+    "shipname": "Opux Luxury Yacht"
+  },
+  {
+    "ship_type_id": 638,
+    "shipname": "Raven"
+  },
+  {
+    "ship_type_id": 639,
+    "shipname": "Tempest"
+  },
+  {
+    "ship_type_id": 640,
+    "shipname": "Scorpion"
+  },
+  {
+    "ship_type_id": 641,
+    "shipname": "Megathron"
+  },
+  {
+    "ship_type_id": 642,
+    "shipname": "Apocalypse"
+  },
+  {
+    "ship_type_id": 643,
+    "shipname": "Armageddon"
+  },
+  {
+    "ship_type_id": 644,
+    "shipname": "Typhoon"
+  },
+  {
+    "ship_type_id": 645,
+    "shipname": "Dominix"
+  },
+  {
+    "ship_type_id": 648,
+    "shipname": "Badger"
+  },
+  {
+    "ship_type_id": 649,
+    "shipname": "Tayra"
+  },
+  {
+    "ship_type_id": 650,
+    "shipname": "Nereus"
+  },
+  {
+    "ship_type_id": 651,
+    "shipname": "Hoarder"
+  },
+  {
+    "ship_type_id": 652,
+    "shipname": "Mammoth"
+  },
+  {
+    "ship_type_id": 653,
+    "shipname": "Wreathe"
+  },
+  {
+    "ship_type_id": 654,
+    "shipname": "Kryos"
+  },
+  {
+    "ship_type_id": 655,
+    "shipname": "Epithal"
+  },
+  {
+    "ship_type_id": 656,
+    "shipname": "Miasmos"
+  },
+  {
+    "ship_type_id": 657,
+    "shipname": "Iteron Mark V"
+  },
+  {
+    "ship_type_id": 671,
+    "shipname": "Erebus"
+  },
+  {
+    "ship_type_id": 672,
+    "shipname": "Caldari Shuttle"
+  },
+  {
+    "ship_type_id": 1944,
+    "shipname": "Bestower"
+  },
+  {
+    "ship_type_id": 2006,
+    "shipname": "Omen"
+  },
+  {
+    "ship_type_id": 2078,
+    "shipname": "Zephyr"
+  },
+  {
+    "ship_type_id": 2161,
+    "shipname": "Crucifier"
+  },
+  {
+    "ship_type_id": 2834,
+    "shipname": "Utu"
+  },
+  {
+    "ship_type_id": 2836,
+    "shipname": "Adrestia"
+  },
+  {
+    "ship_type_id": 2863,
+    "shipname": "Primae"
+  },
+  {
+    "ship_type_id": 2998,
+    "shipname": "Noctis"
+  },
+  {
+    "ship_type_id": 3514,
+    "shipname": "Revenant"
+  },
+  {
+    "ship_type_id": 3516,
+    "shipname": "Malice"
+  },
+  {
+    "ship_type_id": 3518,
+    "shipname": "Vangel"
+  },
+  {
+    "ship_type_id": 3532,
+    "shipname": "Echelon"
+  },
+  {
+    "ship_type_id": 3756,
+    "shipname": "Gnosis"
+  },
+  {
+    "ship_type_id": 3764,
+    "shipname": "Leviathan"
+  },
+  {
+    "ship_type_id": 3766,
+    "shipname": "Vigil"
+  },
+  {
+    "ship_type_id": 4302,
+    "shipname": "Oracle"
+  },
+  {
+    "ship_type_id": 4306,
+    "shipname": "Naga"
+  },
+  {
+    "ship_type_id": 4308,
+    "shipname": "Talos"
+  },
+  {
+    "ship_type_id": 4310,
+    "shipname": "Tornado"
+  },
+  {
+    "ship_type_id": 4363,
+    "shipname": "Miasmos Quafe Ultra Edition"
+  },
+  {
+    "ship_type_id": 4388,
+    "shipname": "Miasmos Quafe Ultramarine Edition"
+  },
+  {
+    "ship_type_id": 11011,
+    "shipname": "Guardian-Vexor"
+  },
+  {
+    "ship_type_id": 11129,
+    "shipname": "Gallente Shuttle"
+  },
+  {
+    "ship_type_id": 11132,
+    "shipname": "Minmatar Shuttle"
+  },
+  {
+    "ship_type_id": 11134,
+    "shipname": "Amarr Shuttle"
+  },
+  {
+    "ship_type_id": 11172,
+    "shipname": "Helios"
+  },
+  {
+    "ship_type_id": 11174,
+    "shipname": "Keres"
+  },
+  {
+    "ship_type_id": 11176,
+    "shipname": "Crow"
+  },
+  {
+    "ship_type_id": 11178,
+    "shipname": "Raptor"
+  },
+  {
+    "ship_type_id": 11182,
+    "shipname": "Cheetah"
+  },
+  {
+    "ship_type_id": 11184,
+    "shipname": "Crusader"
+  },
+  {
+    "ship_type_id": 11186,
+    "shipname": "Malediction"
+  },
+  {
+    "ship_type_id": 11188,
+    "shipname": "Anathema"
+  },
+  {
+    "ship_type_id": 11190,
+    "shipname": "Sentinel"
+  },
+  {
+    "ship_type_id": 11192,
+    "shipname": "Buzzard"
+  },
+  {
+    "ship_type_id": 11194,
+    "shipname": "Kitsune"
+  },
+  {
+    "ship_type_id": 11196,
+    "shipname": "Claw"
+  },
+  {
+    "ship_type_id": 11198,
+    "shipname": "Stiletto"
+  },
+  {
+    "ship_type_id": 11200,
+    "shipname": "Taranis"
+  },
+  {
+    "ship_type_id": 11202,
+    "shipname": "Ares"
+  },
+  {
+    "ship_type_id": 11365,
+    "shipname": "Vengeance"
+  },
+  {
+    "ship_type_id": 11371,
+    "shipname": "Wolf"
+  },
+  {
+    "ship_type_id": 11377,
+    "shipname": "Nemesis"
+  },
+  {
+    "ship_type_id": 11379,
+    "shipname": "Hawk"
+  },
+  {
+    "ship_type_id": 11381,
+    "shipname": "Harpy"
+  },
+  {
+    "ship_type_id": 11387,
+    "shipname": "Hyena"
+  },
+  {
+    "ship_type_id": 11393,
+    "shipname": "Retribution"
+  },
+  {
+    "ship_type_id": 11400,
+    "shipname": "Jaguar"
+  },
+  {
+    "ship_type_id": 11567,
+    "shipname": "Avatar"
+  },
+  {
+    "ship_type_id": 11936,
+    "shipname": "Apocalypse Imperial Issue"
+  },
+  {
+    "ship_type_id": 11938,
+    "shipname": "Armageddon Imperial Issue"
+  },
+  {
+    "ship_type_id": 11940,
+    "shipname": "Gold Magnate"
+  },
+  {
+    "ship_type_id": 11942,
+    "shipname": "Silver Magnate"
+  },
+  {
+    "ship_type_id": 11957,
+    "shipname": "Falcon"
+  },
+  {
+    "ship_type_id": 11959,
+    "shipname": "Rook"
+  },
+  {
+    "ship_type_id": 11961,
+    "shipname": "Huginn"
+  },
+  {
+    "ship_type_id": 11963,
+    "shipname": "Rapier"
+  },
+  {
+    "ship_type_id": 11965,
+    "shipname": "Pilgrim"
+  },
+  {
+    "ship_type_id": 11969,
+    "shipname": "Arazu"
+  },
+  {
+    "ship_type_id": 11971,
+    "shipname": "Lachesis"
+  },
+  {
+    "ship_type_id": 11978,
+    "shipname": "Scimitar"
+  },
+  {
+    "ship_type_id": 11985,
+    "shipname": "Basilisk"
+  },
+  {
+    "ship_type_id": 11987,
+    "shipname": "Guardian"
+  },
+  {
+    "ship_type_id": 11989,
+    "shipname": "Oneiros"
+  },
+  {
+    "ship_type_id": 11993,
+    "shipname": "Cerberus"
+  },
+  {
+    "ship_type_id": 11995,
+    "shipname": "Onyx"
+  },
+  {
+    "ship_type_id": 11999,
+    "shipname": "Vagabond"
+  },
+  {
+    "ship_type_id": 12003,
+    "shipname": "Zealot"
+  },
+  {
+    "ship_type_id": 12005,
+    "shipname": "Ishtar"
+  },
+  {
+    "ship_type_id": 12011,
+    "shipname": "Eagle"
+  },
+  {
+    "ship_type_id": 12013,
+    "shipname": "Broadsword"
+  },
+  {
+    "ship_type_id": 12015,
+    "shipname": "Muninn"
+  },
+  {
+    "ship_type_id": 12017,
+    "shipname": "Devoter"
+  },
+  {
+    "ship_type_id": 12019,
+    "shipname": "Sacrilege"
+  },
+  {
+    "ship_type_id": 12021,
+    "shipname": "Phobos"
+  },
+  {
+    "ship_type_id": 12023,
+    "shipname": "Deimos"
+  },
+  {
+    "ship_type_id": 12032,
+    "shipname": "Manticore"
+  },
+  {
+    "ship_type_id": 12034,
+    "shipname": "Hound"
+  },
+  {
+    "ship_type_id": 12038,
+    "shipname": "Purifier"
+  },
+  {
+    "ship_type_id": 12042,
+    "shipname": "Ishkur"
+  },
+  {
+    "ship_type_id": 12044,
+    "shipname": "Enyo"
+  },
+  {
+    "ship_type_id": 12729,
+    "shipname": "Crane"
+  },
+  {
+    "ship_type_id": 12731,
+    "shipname": "Bustard"
+  },
+  {
+    "ship_type_id": 12733,
+    "shipname": "Prorator"
+  },
+  {
+    "ship_type_id": 12735,
+    "shipname": "Prowler"
+  },
+  {
+    "ship_type_id": 12743,
+    "shipname": "Viator"
+  },
+  {
+    "ship_type_id": 12745,
+    "shipname": "Occator"
+  },
+  {
+    "ship_type_id": 12747,
+    "shipname": "Mastodon"
+  },
+  {
+    "ship_type_id": 12753,
+    "shipname": "Impel"
+  },
+  {
+    "ship_type_id": 13202,
+    "shipname": "Megathron Federate Issue"
+  },
+  {
+    "ship_type_id": 16227,
+    "shipname": "Ferox"
+  },
+  {
+    "ship_type_id": 16229,
+    "shipname": "Brutix"
+  },
+  {
+    "ship_type_id": 16231,
+    "shipname": "Cyclone"
+  },
+  {
+    "ship_type_id": 16233,
+    "shipname": "Prophecy"
+  },
+  {
+    "ship_type_id": 16236,
+    "shipname": "Coercer"
+  },
+  {
+    "ship_type_id": 16238,
+    "shipname": "Cormorant"
+  },
+  {
+    "ship_type_id": 16240,
+    "shipname": "Catalyst"
+  },
+  {
+    "ship_type_id": 16242,
+    "shipname": "Thrasher"
+  },
+  {
+    "ship_type_id": 17476,
+    "shipname": "Covetor"
+  },
+  {
+    "ship_type_id": 17478,
+    "shipname": "Retriever"
+  },
+  {
+    "ship_type_id": 17480,
+    "shipname": "Procurer"
+  },
+  {
+    "ship_type_id": 17619,
+    "shipname": "Caldari Navy Hookbill"
+  },
+  {
+    "ship_type_id": 17634,
+    "shipname": "Caracal Navy Issue"
+  },
+  {
+    "ship_type_id": 17636,
+    "shipname": "Raven Navy Issue"
+  },
+  {
+    "ship_type_id": 17703,
+    "shipname": "Imperial Navy Slicer"
+  },
+  {
+    "ship_type_id": 17709,
+    "shipname": "Omen Navy Issue"
+  },
+  {
+    "ship_type_id": 17713,
+    "shipname": "Stabber Fleet Issue"
+  },
+  {
+    "ship_type_id": 17715,
+    "shipname": "Gila"
+  },
+  {
+    "ship_type_id": 17718,
+    "shipname": "Phantasm"
+  },
+  {
+    "ship_type_id": 17720,
+    "shipname": "Cynabal"
+  },
+  {
+    "ship_type_id": 17722,
+    "shipname": "Vigilant"
+  },
+  {
+    "ship_type_id": 17726,
+    "shipname": "Apocalypse Navy Issue"
+  },
+  {
+    "ship_type_id": 17728,
+    "shipname": "Megathron Navy Issue"
+  },
+  {
+    "ship_type_id": 17732,
+    "shipname": "Tempest Fleet Issue"
+  },
+  {
+    "ship_type_id": 17736,
+    "shipname": "Nightmare"
+  },
+  {
+    "ship_type_id": 17738,
+    "shipname": "Machariel"
+  },
+  {
+    "ship_type_id": 17740,
+    "shipname": "Vindicator"
+  },
+  {
+    "ship_type_id": 17812,
+    "shipname": "Republic Fleet Firetail"
+  },
+  {
+    "ship_type_id": 17841,
+    "shipname": "Federation Navy Comet"
+  },
+  {
+    "ship_type_id": 17843,
+    "shipname": "Vexor Navy Issue"
+  },
+  {
+    "ship_type_id": 17918,
+    "shipname": "Rattlesnake"
+  },
+  {
+    "ship_type_id": 17920,
+    "shipname": "Bhaalgorn"
+  },
+  {
+    "ship_type_id": 17922,
+    "shipname": "Ashimmu"
+  },
+  {
+    "ship_type_id": 17924,
+    "shipname": "Succubus"
+  },
+  {
+    "ship_type_id": 17926,
+    "shipname": "Cruor"
+  },
+  {
+    "ship_type_id": 17928,
+    "shipname": "Daredevil"
+  },
+  {
+    "ship_type_id": 17930,
+    "shipname": "Worm"
+  },
+  {
+    "ship_type_id": 17932,
+    "shipname": "Dramiel"
+  },
+  {
+    "ship_type_id": 19720,
+    "shipname": "Revelation"
+  },
+  {
+    "ship_type_id": 19722,
+    "shipname": "Naglfar"
+  },
+  {
+    "ship_type_id": 19724,
+    "shipname": "Moros"
+  },
+  {
+    "ship_type_id": 19726,
+    "shipname": "Phoenix"
+  },
+  {
+    "ship_type_id": 19744,
+    "shipname": "Sigil"
+  },
+  {
+    "ship_type_id": 20125,
+    "shipname": "Curse"
+  },
+  {
+    "ship_type_id": 20183,
+    "shipname": "Providence"
+  },
+  {
+    "ship_type_id": 20185,
+    "shipname": "Charon"
+  },
+  {
+    "ship_type_id": 20187,
+    "shipname": "Obelisk"
+  },
+  {
+    "ship_type_id": 20189,
+    "shipname": "Fenrir"
+  },
+  {
+    "ship_type_id": 21097,
+    "shipname": "Goru's Shuttle"
+  },
+  {
+    "ship_type_id": 21628,
+    "shipname": "Guristas Shuttle"
+  },
+  {
+    "ship_type_id": 22428,
+    "shipname": "Redeemer"
+  },
+  {
+    "ship_type_id": 22430,
+    "shipname": "Sin"
+  },
+  {
+    "ship_type_id": 22436,
+    "shipname": "Widow"
+  },
+  {
+    "ship_type_id": 22440,
+    "shipname": "Panther"
+  },
+  {
+    "ship_type_id": 22442,
+    "shipname": "Eos"
+  },
+  {
+    "ship_type_id": 22444,
+    "shipname": "Sleipnir"
+  },
+  {
+    "ship_type_id": 22446,
+    "shipname": "Vulture"
+  },
+  {
+    "ship_type_id": 22448,
+    "shipname": "Absolution"
+  },
+  {
+    "ship_type_id": 22452,
+    "shipname": "Heretic"
+  },
+  {
+    "ship_type_id": 22456,
+    "shipname": "Sabre"
+  },
+  {
+    "ship_type_id": 22460,
+    "shipname": "Eris"
+  },
+  {
+    "ship_type_id": 22464,
+    "shipname": "Flycatcher"
+  },
+  {
+    "ship_type_id": 22466,
+    "shipname": "Astarte"
+  },
+  {
+    "ship_type_id": 22468,
+    "shipname": "Claymore"
+  },
+  {
+    "ship_type_id": 22470,
+    "shipname": "Nighthawk"
+  },
+  {
+    "ship_type_id": 22474,
+    "shipname": "Damnation"
+  },
+  {
+    "ship_type_id": 22544,
+    "shipname": "Hulk"
+  },
+  {
+    "ship_type_id": 22546,
+    "shipname": "Skiff"
+  },
+  {
+    "ship_type_id": 22548,
+    "shipname": "Mackinaw"
+  },
+  {
+    "ship_type_id": 22852,
+    "shipname": "Hel"
+  },
+  {
+    "ship_type_id": 23757,
+    "shipname": "Archon"
+  },
+  {
+    "ship_type_id": 23773,
+    "shipname": "Ragnarok"
+  },
+  {
+    "ship_type_id": 23911,
+    "shipname": "Thanatos"
+  },
+  {
+    "ship_type_id": 23913,
+    "shipname": "Nyx"
+  },
+  {
+    "ship_type_id": 23915,
+    "shipname": "Chimera"
+  },
+  {
+    "ship_type_id": 23917,
+    "shipname": "Wyvern"
+  },
+  {
+    "ship_type_id": 23919,
+    "shipname": "Aeon"
+  },
+  {
+    "ship_type_id": 24483,
+    "shipname": "Nidhoggur"
+  },
+  {
+    "ship_type_id": 24688,
+    "shipname": "Rokh"
+  },
+  {
+    "ship_type_id": 24690,
+    "shipname": "Hyperion"
+  },
+  {
+    "ship_type_id": 24692,
+    "shipname": "Abaddon"
+  },
+  {
+    "ship_type_id": 24694,
+    "shipname": "Maelstrom"
+  },
+  {
+    "ship_type_id": 24696,
+    "shipname": "Harbinger"
+  },
+  {
+    "ship_type_id": 24698,
+    "shipname": "Drake"
+  },
+  {
+    "ship_type_id": 24700,
+    "shipname": "Myrmidon"
+  },
+  {
+    "ship_type_id": 24702,
+    "shipname": "Hurricane"
+  },
+  {
+    "ship_type_id": 26840,
+    "shipname": "Raven State Issue"
+  },
+  {
+    "ship_type_id": 26842,
+    "shipname": "Tempest Tribal Issue"
+  },
+  {
+    "ship_type_id": 27299,
+    "shipname": "Civilian Amarr Shuttle"
+  },
+  {
+    "ship_type_id": 27301,
+    "shipname": "Civilian Caldari Shuttle"
+  },
+  {
+    "ship_type_id": 27303,
+    "shipname": "Civilian Gallente Shuttle"
+  },
+  {
+    "ship_type_id": 27305,
+    "shipname": "Civilian Minmatar Shuttle"
+  },
+  {
+    "ship_type_id": 28352,
+    "shipname": "Rorqual"
+  },
+  {
+    "ship_type_id": 28606,
+    "shipname": "Orca"
+  },
+  {
+    "ship_type_id": 28659,
+    "shipname": "Paladin"
+  },
+  {
+    "ship_type_id": 28661,
+    "shipname": "Kronos"
+  },
+  {
+    "ship_type_id": 28665,
+    "shipname": "Vargur"
+  },
+  {
+    "ship_type_id": 28710,
+    "shipname": "Golem"
+  },
+  {
+    "ship_type_id": 28844,
+    "shipname": "Rhea"
+  },
+  {
+    "ship_type_id": 28846,
+    "shipname": "Nomad"
+  },
+  {
+    "ship_type_id": 28848,
+    "shipname": "Anshar"
+  },
+  {
+    "ship_type_id": 28850,
+    "shipname": "Ark"
+  },
+  {
+    "ship_type_id": 29248,
+    "shipname": "Magnate"
+  },
+  {
+    "ship_type_id": 29266,
+    "shipname": "Apotheosis"
+  },
+  {
+    "ship_type_id": 29336,
+    "shipname": "Scythe Fleet Issue"
+  },
+  {
+    "ship_type_id": 29337,
+    "shipname": "Augoror Navy Issue"
+  },
+  {
+    "ship_type_id": 29340,
+    "shipname": "Osprey Navy Issue"
+  },
+  {
+    "ship_type_id": 29344,
+    "shipname": "Exequror Navy Issue"
+  },
+  {
+    "ship_type_id": 29984,
+    "shipname": "Tengu"
+  },
+  {
+    "ship_type_id": 29986,
+    "shipname": "Legion"
+  },
+  {
+    "ship_type_id": 29988,
+    "shipname": "Proteus"
+  },
+  {
+    "ship_type_id": 29990,
+    "shipname": "Loki"
+  },
+  {
+    "ship_type_id": 30842,
+    "shipname": "InterBus Shuttle"
+  },
+  {
+    "ship_type_id": 32207,
+    "shipname": "Freki"
+  },
+  {
+    "ship_type_id": 32209,
+    "shipname": "Mimir"
+  },
+  {
+    "ship_type_id": 32305,
+    "shipname": "Armageddon Navy Issue"
+  },
+  {
+    "ship_type_id": 32307,
+    "shipname": "Dominix Navy Issue"
+  },
+  {
+    "ship_type_id": 32309,
+    "shipname": "Scorpion Navy Issue"
+  },
+  {
+    "ship_type_id": 32311,
+    "shipname": "Typhoon Fleet Issue"
+  },
+  {
+    "ship_type_id": 32788,
+    "shipname": "Cambion"
+  },
+  {
+    "ship_type_id": 32790,
+    "shipname": "Etana"
+  },
+  {
+    "ship_type_id": 32811,
+    "shipname": "Miasmos Amastris Edition"
+  },
+  {
+    "ship_type_id": 32872,
+    "shipname": "Algos"
+  },
+  {
+    "ship_type_id": 32874,
+    "shipname": "Dragoon"
+  },
+  {
+    "ship_type_id": 32876,
+    "shipname": "Corax"
+  },
+  {
+    "ship_type_id": 32878,
+    "shipname": "Talwar"
+  },
+  {
+    "ship_type_id": 32880,
+    "shipname": "Venture"
+  },
+  {
+    "ship_type_id": 33079,
+    "shipname": "Hematos"
+  },
+  {
+    "ship_type_id": 33081,
+    "shipname": "Taipan"
+  },
+  {
+    "ship_type_id": 33083,
+    "shipname": "Violator"
+  },
+  {
+    "ship_type_id": 33151,
+    "shipname": "Brutix Navy Issue"
+  },
+  {
+    "ship_type_id": 33153,
+    "shipname": "Drake Navy Issue"
+  },
+  {
+    "ship_type_id": 33155,
+    "shipname": "Harbinger Navy Issue"
+  },
+  {
+    "ship_type_id": 33157,
+    "shipname": "Hurricane Fleet Issue"
+  },
+  {
+    "ship_type_id": 33395,
+    "shipname": "Moracha"
+  },
+  {
+    "ship_type_id": 33397,
+    "shipname": "Chremoas"
+  },
+  {
+    "ship_type_id": 33468,
+    "shipname": "Astero"
+  },
+  {
+    "ship_type_id": 33470,
+    "shipname": "Stratios"
+  },
+  {
+    "ship_type_id": 33472,
+    "shipname": "Nestor"
+  },
+  {
+    "ship_type_id": 33513,
+    "shipname": "Leopard"
+  },
+  {
+    "ship_type_id": 33553,
+    "shipname": "Stratios Emergency Responder"
+  },
+  {
+    "ship_type_id": 33673,
+    "shipname": "Whiptail"
+  },
+  {
+    "ship_type_id": 33675,
+    "shipname": "Chameleon"
+  },
+  {
+    "ship_type_id": 33697,
+    "shipname": "Prospect"
+  },
+  {
+    "ship_type_id": 33816,
+    "shipname": "Garmur"
+  },
+  {
+    "ship_type_id": 33818,
+    "shipname": "Orthrus"
+  },
+  {
+    "ship_type_id": 33820,
+    "shipname": "Barghest"
+  },
+  {
+    "ship_type_id": 33857,
+    "shipname": "??????"
+  },
+  {
+    "ship_type_id": 33858,
+    "shipname": "???????"
+  },
+  {
+    "ship_type_id": 34317,
+    "shipname": "Confessor"
+  },
+  {
+    "ship_type_id": 34328,
+    "shipname": "Bowhead"
+  },
+  {
+    "ship_type_id": 34496,
+    "shipname": "Council Diplomatic Shuttle"
+  },
+  {
+    "ship_type_id": 34562,
+    "shipname": "Svipul"
+  },
+  {
+    "ship_type_id": 34590,
+    "shipname": "Victorieux Luxury Yacht"
+  },
+  {
+    "ship_type_id": 34828,
+    "shipname": "Jackdaw"
+  },
+  {
+    "ship_type_id": 35683,
+    "shipname": "Hecate"
+  },
+  {
+    "ship_type_id": 35779,
+    "shipname": "Imp"
+  },
+  {
+    "ship_type_id": 35781,
+    "shipname": "Fiend"
+  },
+  {
+    "ship_type_id": 37135,
+    "shipname": "Endurance"
+  },
+  {
+    "ship_type_id": 37453,
+    "shipname": "Crucifier Navy Issue"
+  },
+  {
+    "ship_type_id": 37454,
+    "shipname": "Vigil Fleet Issue"
+  },
+  {
+    "ship_type_id": 37455,
+    "shipname": "Griffin Navy Issue"
+  },
+  {
+    "ship_type_id": 37456,
+    "shipname": "Maulus Navy Issue"
+  },
+  {
+    "ship_type_id": 37457,
+    "shipname": "Deacon"
+  },
+  {
+    "ship_type_id": 37458,
+    "shipname": "Kirin"
+  },
+  {
+    "ship_type_id": 37459,
+    "shipname": "Thalia"
+  },
+  {
+    "ship_type_id": 37460,
+    "shipname": "Scalpel"
+  },
+  {
+    "ship_type_id": 37480,
+    "shipname": "Bifrost"
+  },
+  {
+    "ship_type_id": 37481,
+    "shipname": "Pontifex"
+  },
+  {
+    "ship_type_id": 37482,
+    "shipname": "Stork"
+  },
+  {
+    "ship_type_id": 37483,
+    "shipname": "Magus"
+  },
+  {
+    "ship_type_id": 37604,
+    "shipname": "Apostle"
+  },
+  {
+    "ship_type_id": 37605,
+    "shipname": "Minokawa"
+  },
+  {
+    "ship_type_id": 37606,
+    "shipname": "Lif"
+  },
+  {
+    "ship_type_id": 37607,
+    "shipname": "Ninazu"
+  },
+  {
+    "ship_type_id": 41035,
+    "shipname": "???????"
+  },
+  {
+    "ship_type_id": 42124,
+    "shipname": "Vehement"
+  },
+  {
+    "ship_type_id": 42125,
+    "shipname": "Vendetta"
+  },
+  {
+    "ship_type_id": 42126,
+    "shipname": "Vanquisher"
+  },
+  {
+    "ship_type_id": 42241,
+    "shipname": "Molok"
+  },
+  {
+    "ship_type_id": 42242,
+    "shipname": "Dagon"
+  },
+  {
+    "ship_type_id": 42243,
+    "shipname": "Chemosh"
+  },
+  {
+    "ship_type_id": 42244,
+    "shipname": "Porpoise"
+  },
+  {
+    "ship_type_id": 42245,
+    "shipname": "Rabisu"
+  },
+  {
+    "ship_type_id": 42246,
+    "shipname": "Caedes"
+  },
+  {
+    "ship_type_id": 42685,
+    "shipname": "Sunesis"
+  },
+  {
+    "ship_type_id": 44993,
+    "shipname": "Pacifier"
+  },
+  {
+    "ship_type_id": 44995,
+    "shipname": "Enforcer"
+  },
+  {
+    "ship_type_id": 44996,
+    "shipname": "Marshal"
+  },
+  {
+    "ship_type_id": 45530,
+    "shipname": "Virtuoso"
+  },
+  {
+    "ship_type_id": 45531,
+    "shipname": "Victor"
+  },
+  {
+    "ship_type_id": 45534,
+    "shipname": "Monitor"
+  },
+  {
+    "ship_type_id": 45645,
+    "shipname": "Loggerhead"
+  },
+  {
+    "ship_type_id": 45647,
+    "shipname": "Caiman"
+  },
+  {
+    "ship_type_id": 45649,
+    "shipname": "Komodo"
+  },
+  {
+    "ship_type_id": 47269,
+    "shipname": "Damavik"
+  },
+  {
+    "ship_type_id": 47270,
+    "shipname": "Vedmak"
+  },
+  {
+    "ship_type_id": 47271,
+    "shipname": "Leshak"
+  },
+  {
+    "ship_type_id": 47466,
+    "shipname": "Praxis"
+  },
+  {
+    "ship_type_id": 48635,
+    "shipname": "Tiamat"
+  },
+  {
+    "ship_type_id": 48636,
+    "shipname": "Hydra"
+  },
+  {
+    "ship_type_id": 49710,
+    "shipname": "Kikimora"
+  },
+  {
+    "ship_type_id": 49711,
+    "shipname": "Drekavac"
+  },
+  {
+    "ship_type_id": 49712,
+    "shipname": "Rodiva"
+  },
+  {
+    "ship_type_id": 49713,
+    "shipname": "Zarmazd"
+  },
+  {
+    "ship_type_id": 50097,
+    "shipname": "Avatar"
+  },
+  {
+    "ship_type_id": 52250,
+    "shipname": "Nergal"
+  },
+  {
+    "ship_type_id": 52252,
+    "shipname": "Ikitursa"
+  },
+  {
+    "ship_type_id": 52254,
+    "shipname": "Draugur"
+  },
+  {
+    "ship_type_id": 52907,
+    "shipname": "Zirnitra"
+  },
+  {
+    "ship_type_id": 54731,
+    "shipname": "Skybreaker"
+  },
+  {
+    "ship_type_id": 54732,
+    "shipname": "Stormbringer"
+  },
+  {
+    "ship_type_id": 54733,
+    "shipname": "Thunderchild"
+  },
+  {
+    "ship_type_id": 60764,
+    "shipname": "Laelaps"
+  },
+  {
+    "ship_type_id": 60765,
+    "shipname": "Raiju"
+  },
+  {
+    "ship_type_id": 64034,
+    "shipname": "Boobook"
+  },
+  {
+    "ship_type_id": 72811,
+    "shipname": "Cyclone Fleet Issue"
+  },
+  {
+    "ship_type_id": 72812,
+    "shipname": "Ferox Navy Issue"
+  },
+  {
+    "ship_type_id": 72869,
+    "shipname": "Myrmidon Navy Issue"
+  },
+  {
+    "ship_type_id": 72872,
+    "shipname": "Prophecy Navy Issue"
+  },
+  {
+    "ship_type_id": 72903,
+    "shipname": "Probe Fleet Issue"
+  },
+  {
+    "ship_type_id": 72904,
+    "shipname": "Heron Navy Issue"
+  },
+  {
+    "ship_type_id": 72907,
+    "shipname": "Magnate Navy Issue"
+  },
+  {
+    "ship_type_id": 72913,
+    "shipname": "Imicus Navy Issue"
+  },
+  {
+    "ship_type_id": 73787,
+    "shipname": "Naglfar Fleet Issue"
+  },
+  {
+    "ship_type_id": 73789,
+    "shipname": "Coercer Navy Issue"
+  },
+  {
+    "ship_type_id": 73790,
+    "shipname": "Revelation Navy Issue"
+  },
+  {
+    "ship_type_id": 73792,
+    "shipname": "Moros Navy Issue"
+  },
+  {
+    "ship_type_id": 73793,
+    "shipname": "Phoenix Navy Issue"
+  },
+  {
+    "ship_type_id": 73795,
+    "shipname": "Cormorant Navy Issue"
+  },
+  {
+    "ship_type_id": 73796,
+    "shipname": "Catalyst Navy Issue"
+  },
+  {
+    "ship_type_id": 74141,
+    "shipname": "Geri"
+  },
+  {
+    "ship_type_id": 74316,
+    "shipname": "Bestla"
+  },
+  {
+    "ship_type_id": 77114,
+    "shipname": "Metamorphosis"
+  },
+  {
+    "ship_type_id": 77281,
+    "shipname": "Hubris"
+  },
+  {
+    "ship_type_id": 77283,
+    "shipname": "Bane"
+  },
+  {
+    "ship_type_id": 77284,
+    "shipname": "Karura"
+  },
+  {
+    "ship_type_id": 77288,
+    "shipname": "Valravn"
+  },
+  {
+    "ship_type_id": 77726,
+    "shipname": "Cybele"
+  },
+  {
+    "ship_type_id": 78333,
+    "shipname": "Mekubal"
+  },
+  {
+    "ship_type_id": 78366,
+    "shipname": "Alligator"
+  },
+  {
+    "ship_type_id": 78367,
+    "shipname": "Mamba"
+  },
+  {
+    "ship_type_id": 78369,
+    "shipname": "Khizriel"
+  },
+  {
+    "ship_type_id": 78414,
+    "shipname": "Shapash"
+  },
+  {
+    "ship_type_id": 78576,
+    "shipname": "Azariel"
+  },
+  {
+    "ship_type_id": 81008,
+    "shipname": "Squall"
+  },
+  {
+    "ship_type_id": 81040,
+    "shipname": "Avalanche"
+  },
+  {
+    "ship_type_id": 81046,
+    "shipname": "Deluge"
+  },
+  {
+    "ship_type_id": 81047,
+    "shipname": "Torrent"
+  }
+]
